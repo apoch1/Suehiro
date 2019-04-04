@@ -1,0 +1,20 @@
+{
+    "event": [{
+            "id": 1,
+            "title": "Kids' Ramen or Kids' Chicken Bowl",
+            "day": "Mondays",
+            "start":"5:00 PM",
+            "end": "9:00 PM",
+            "description":"Kids' meal of Ramen or Chicken Bowl at the great low price of $3 per meal!"
+            
+        },
+        {
+            "id": 2,
+            "title": "Half off Nigiri Rolls",
+            "day":"Tuesdays",
+            "start": "5:00 PM",
+            "end": "9:00 PM",
+            "description":"Suehiro is offering 1/2 all nigiri rolls. Come by and taste the goodness!"
+        }
+        ]
+}
